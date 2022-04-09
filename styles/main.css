@@ -363,6 +363,8 @@ input[type='submit']:hover, input[type='button']:hover {
 
 #awards img {
   margin: 16px;
+  max-width: 100%;
+  height: auto;
 }
 
 .section-intro {
